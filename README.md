@@ -3,7 +3,7 @@
  Participated as a member of Team Heavy , placed first runner up for the Competive track.
  
  Colab File used:
- EDA (trial) - https://colab.research.google.com/drive/1wY4SRHZxsebeaX1yN3LBtMeRnYiBBebU?usp=sharing#scrollTo=4IuX9yH7Ya86
- Final Output (EDA and Model) - https://colab.research.google.com/drive/1yDLXvVdy5LZMJy-OMi7hzRvh66LqK-Kn
+ EDA (trial) - https://colab.research.google.com/drive/1wY4SRHZxsebeaX1yN3LBtMeRnYiBBebU?usp=sharing#scrollTo=4IuX9yH7Ya86 \
+ Final Output (EDA and Model) - https://colab.research.google.com/drive/1yDLXvVdy5LZMJy-OMi7hzRvh66LqK-Kn \
 
 
